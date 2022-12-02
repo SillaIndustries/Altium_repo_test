@@ -171,136 +171,136 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=versione
-Value=A
-
-[Parameter2]
-Name=revisione
-Value=0
-
-[Parameter3]
-Name=PCBTS_VEP
-Value=Not required
-
-[Parameter4]
-Name=PCBTS_Vendor_Logo
-Value=Not Allowed
-
-[Parameter5]
-Name=PCBTS_Thickness
-Value=1.6 +- 10%
-
-[Parameter6]
-Name=PCBTS_TG
-Value=130
-
-[Parameter7]
-Name=PCBTS_SM
-Value=Top+Bottom (Green)
-
-[Parameter8]
-Name=PCBTS_Size
+Name=approvato_da
 Value=
 
+[Parameter2]
+Name=Autore
+Value=F.Moretti
+
+[Parameter3]
+Name=azienda
+Value=Silla_industries
+
+[Parameter4]
+Name=code_ID
+Value=ProjectY
+
+[Parameter5]
+Name=codice_articolo_pcb
+Value=_
+
+[Parameter6]
+Name=codice_scheda_montata
+Value=_
+
+[Parameter7]
+Name=disegnato_da
+Value=F.Moretti
+
+[Parameter8]
+Name=indirizzo
+Value=Descrizione
+
 [Parameter9]
-Name=PCBTS_Silk
-Value=Top+Bottom (White)
+Name=nome_progetto
+Value=ProjectX
 
 [Parameter10]
-Name=PCBTS_SB
-Value=Do not remove
+Name=PCBTS_Area
+Value=## cm^2
 
 [Parameter11]
-Name=PCBTS_Rails
-Value=10 mm (see Panel Specification page)
-
-[Parameter12]
-Name=PCBTS_Nlayers
-Value=2
-
-[Parameter13]
-Name=PCBTS_Mod
+Name=PCBTS_CB
 Value=Not Allowed
 
+[Parameter12]
+Name=PCBTS_CI
+Value=Not required
+
+[Parameter13]
+Name=PCBTS_CTI
+Value=###
+
 [Parameter14]
-Name=PCBTS_Marks
-Value=Preferably Allowed on Soldermask Layers
+Name=PCBTS_Cut
+Value=VSCORING
 
 [Parameter15]
-Name=PCBTS_laminate
-Value=FR4
+Name=PCBTS_DT
+Value=+/- 0.08mm (if not specified)
 
 [Parameter16]
-Name=PCBTS_Finished_Cu
-Value=35 um
+Name=PCBTS_ET
+Value=Requested
 
 [Parameter17]
 Name=PCBTS_Finish
 Value=HASL
 
 [Parameter18]
-Name=PCBTS_ET
-Value=Requested
+Name=PCBTS_Finished_Cu
+Value=35 um
 
 [Parameter19]
-Name=PCBTS_DT
-Value=+/- 0.08mm (if not specified)
+Name=PCBTS_laminate
+Value=FR4
 
 [Parameter20]
-Name=PCBTS_Cut
-Value=VSCORING
+Name=PCBTS_Marks
+Value=Preferably Allowed on Soldermask Layers
 
 [Parameter21]
-Name=PCBTS_CTI
-Value=###
-
-[Parameter22]
-Name=PCBTS_CI
-Value=Not required
-
-[Parameter23]
-Name=PCBTS_CB
+Name=PCBTS_Mod
 Value=Not Allowed
 
+[Parameter22]
+Name=PCBTS_Nlayers
+Value=2
+
+[Parameter23]
+Name=PCBTS_Rails
+Value=10 mm (see Panel Specification page)
+
 [Parameter24]
-Name=PCBTS_Area
-Value=## cm^2
+Name=PCBTS_SB
+Value=Do not remove
 
 [Parameter25]
-Name=nome_progetto
-Value=ProjectX
+Name=PCBTS_Silk
+Value=Top+Bottom (White)
 
 [Parameter26]
-Name=indirizzo
-Value=Descrizione
+Name=PCBTS_Size
+Value=
 
 [Parameter27]
-Name=disegnato_da
-Value=F.Moretti
+Name=PCBTS_SM
+Value=Top+Bottom (Green)
 
 [Parameter28]
-Name=codice_scheda_montata
-Value=_
+Name=PCBTS_TG
+Value=130
 
 [Parameter29]
-Name=codice_articolo_pcb
-Value=_
+Name=PCBTS_Thickness
+Value=1.6 +- 10%
 
 [Parameter30]
-Name=code_ID
-Value=ProjectY
+Name=PCBTS_Vendor_Logo
+Value=Not Allowed
 
 [Parameter31]
-Name=azienda
-Value=Silla_industries
+Name=PCBTS_VEP
+Value=Not required
 
 [Parameter32]
-Name=Autore
-Value=F.Moretti
+Name=revisione
+Value=0
 
 [Parameter33]
-Name=approvato_da
-Value=
+Name=versione
+Value=A
 
 [Configuration1]
 Name=Sources
